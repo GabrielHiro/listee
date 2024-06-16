@@ -38,7 +38,7 @@ Este projeto está sob licença do MIT que permite a qualquer pessoa que obtém 
 <b align="center">Aplicativo compatível apenas com android 11+</b>
 
 <ol>
-    <li>Vá para a página de <a href="">releases</a> e baixe o arquivo <b>listee.apk</b>.</li>
+    <li>Vá para a página de <a href="https://github.com/GabrielHiro/listee/releases/tag/untagged-788b82b67c3f1f57cce5">releases</a> e baixe o arquivo <b>listee.apk</b>.</li>
     <li>Abra o arquivo no seu dispositivo android e instale.</li>
     <li>Se tiver dúvidas, siga o passo a passo deste <a href="https://geekblog.com.br/como-instalar-apk-no-android-8-9-e-10/">link.</a></li>
 </ol>
