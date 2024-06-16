@@ -3,7 +3,7 @@
     <p>Listee</p>
 </h1>
 
-<p align="justify">Listee é um aplicativo de lista de compras desenvolvido para a matéria de Laboratório de Programação para Dispositivos Móveis e Sem Fio do curso de Análise e Desenvolvimento de Sistemas.</p>
+<p align="justify">Listee é um aplicativo de lista de compras desenvolvido para a materia UPX do curso de Análise e Desenvolvimento de Sistemas 5°Semestre.</p>
 
 <p align="justify">Nele é possível gerenciar suas listas de compras, estoque e seus dados de usuário, além de existir uma aba de inspirações, onde qualquer usuário pode compartilhar sua lista.</p>
 
