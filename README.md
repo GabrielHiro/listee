@@ -35,7 +35,7 @@ Este projeto está sob licença do MIT que permite a qualquer pessoa que obtém 
 
 <h2>Como instalar</h2>
 
-<b align="center">Aplicativo compatível apenas com android 11+</b>
+<b align="center">Aplicativo compatível apenas com sistemas superior a o android 11+</b>
 
 <ol>
     <li>Vá para a página de <a href="https://github.com/GabrielHiro/listee/releases/tag/v1.0">releases</a> e baixe o arquivo <b>listee.apk</b>.</li>
